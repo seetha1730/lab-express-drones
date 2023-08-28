@@ -1,8 +1,20 @@
 body {
-  padding: 50px;
+ 
   font: 14px 'Lucida Grande', Helvetica, Arial, sans-serif;
 }
 
 a {
   color: #00b7ff;
+}
+.edit-delete-btn{display:flex;flex-direction:row;}
+button.btn.btn-danger{
+  margin-left: 20px;
+}
+.drones-list{width: 29.3%;
+    margin: 10px;
+    padding: 25px;
+}
+header {
+  background: pink;
+  padding: 30px;
 }
